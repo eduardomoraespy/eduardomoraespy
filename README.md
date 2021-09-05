@@ -1,6 +1,5 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
 **eduardomoraespy/eduardomoraespy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,65 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Eduardo Moraes, welcome to my repositories.
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/eduardomoraespy)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/eduardo-moraes-ds/)
+
+## Foco de estudos 
+
+
+![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+
+  - Django
+  - Web Scraping
+  - Data Science
+  - MicroPython  
+  
+  
+  
+</br></br>
+  ***-- Bancos de dados:***
+  
+    - MySQL
+    - PostgreSQL
+    - MongoDb  
+    
+    
+  </br></br>
+  ***-- Front-End:***
+   + HTML 5
+   + CSS3
+   + JS
+   + Bootstrap (Framework) 
+
+
+
+</br></br>
+  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  + Arduino
+  + PIC
+
+
+</br></br>
+ ***-- Container:***
+ 
+ 
+ ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+
+</br></br>
+ ***-- SO:***
+ 
+![SO](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</br></br>
+
+
+</br></br>
+#### Projetos em Destaque:
+
+#### Skils:
+
+
