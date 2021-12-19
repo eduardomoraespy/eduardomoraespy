@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/eduardomoraespy)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/eduardo-moraes-ds/)
 
-## Foco de estudos 
+## Study focus
 
 
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   
   
 </br></br>
-  ***-- Bancos de dados:***
+  ***-- Databases:***
   
     - MySQL
     - PostgreSQL
