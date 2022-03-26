@@ -1,8 +1,10 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 **eduardomoraespy/eduardomoraespy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
+
+# Hi, I'm Eduardo Moraes, welcome to my repositories.
 
 - 🔭 I’m currently working on a project as a full stack developer, with Django on the backend, boostrap on the frontend and a PostgresSQL database.
 
