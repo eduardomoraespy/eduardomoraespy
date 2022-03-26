@@ -44,6 +44,10 @@ Here are some ideas to get you started:-->
 
 
 
+#### Automation
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="60" height="60"/>
+
+
 <!--# Hi, I'm Eduardo Moraes, welcome to my repositories.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/eduardomoraespy)
