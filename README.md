@@ -27,6 +27,16 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: Bachelor's Degree in Aeronautical Sciences and finishing the complementary training for airplane pilot. In order to improve my knowledge as an aircraft pilot, I decided to take a technical course in aircraft maintenance for engine-propellers. As much as I'm working and learning about development technologies I want to take it in parallel and use it as a hard skill in the aviation sector.
 
 
+### Tools and Technologies
+
+#### Programming languages
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+#### Back-end
+
+
+
+
 
 <!--# Hi, I'm Eduardo Moraes, welcome to my repositories.
 
