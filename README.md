@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 # Hi, I'm Eduardo Moraes, welcome to my repositories.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/eduardomoraespy)
@@ -73,6 +73,6 @@ Here are some ideas to get you started:
 </br></br>
 #### Projetos em Destaque:
 
-#### Skils:
+#### Skils:-->
 
 
