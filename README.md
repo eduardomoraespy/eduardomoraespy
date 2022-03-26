@@ -4,14 +4,27 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a project as a full stack developer, with Django on the backend, boostrap on the frontend and a PostgresSQL database.
+
+
+- 🌱 I’m currently learning mobile development with flutter, React, Data Science and UX/UI Design.
+
+
+- 👯 I’m looking to collaborate on Django, Data Science, web development and aviation projects using development technologies.
+
+
+- 🤔 I’m looking for help with projects focused on aviation and other projects that use agile programming and methodologies.
+
+
+- 💬 Ask me about aviation, aircraft maintenance, AI, UX/UI Design and web development.
+
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/eduardo-moraes-ds/)
+
+
+- ⚡ Fun fact: Bachelor's Degree in Aeronautical Sciences and finishing the complementary training for airplane pilot. In order to improve my knowledge as an aircraft pilot, I decided to take a technical course in aircraft maintenance for engine-propellers. As much as I'm working and learning about development technologies I want to take it in parallel and use it as a hard skill in the aviation sector.
+
+
 
 <!--# Hi, I'm Eduardo Moraes, welcome to my repositories.
 
