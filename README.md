@@ -27,35 +27,39 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: Bachelor's Degree in Aeronautical Sciences and finishing the complementary training for airplane pilot. In order to improve my knowledge as an aircraft pilot, I decided to take a technical course in aircraft maintenance for engine-propellers. As much as I'm working and learning about development technologies I want to take it in parallel and use it as a hard skill in the aviation sector.
 
 
-### Tools and Technologies
+## Tools and Technologies
 
-#### Programming languages
+### Programming languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="60" height="60"/>  
 
 
 
 
-#### Back-end
+### Back-end
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="80" height="80"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="80" height="80"/>
 
 
-#### Front-end
+### Front-end
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70" height="70"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="60" height="60"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>
 
 
-#### Mobile
+### Mobile
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60"/>
 
 
-#### Data Science e artificial intelligence
+### Data Science e artificial intelligence
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="80" height="80"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="80" height="80"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="100" height="60"/> &nbsp; <img src="https://miro.medium.com/max/805/0*lheOLngZH18XLnoq.jpg" width="120" height="80"/> &nbsp; <img src="https://assets.st-note.com/production/uploads/images/23398116/rectangle_large_type_2_b9075ed34e9e3956219b8ccd295c5011.png" width="120" height="80"/> &nbsp; <img src="https://camo.githubusercontent.com/2b8b9c325e8d585c6eb39141b5d68731ed709807f851bd412729f0c7b8e2cf08/687474703a2f2f636f6f6c74696d696e672e636f6d2f53562f6c6f676f2e706e67" width="360" height="60"/> 
 
 
 
 
 
-#### Automation
+### Automation
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="60" height="60"/>
+
+
+### BI
+<img src="https://www.cetax.com.br/blog/wp-content/uploads/2016/10/PowerBI-e1557666264791.jpg" width="160" height="60"/>
 
 
 <!--# Hi, I'm Eduardo Moraes, welcome to my repositories.
