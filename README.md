@@ -49,7 +49,7 @@ Here are some ideas to get you started:-->
 
 
 ### Data Base
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/>
 
 
 ### Data Science e artificial intelligence
