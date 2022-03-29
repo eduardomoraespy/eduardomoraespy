@@ -70,7 +70,13 @@ Here are some ideas to get you started:-->
 
 
 
-<!--# Hi, I'm Eduardo Moraes, welcome to my repositories.
+<!--
+
+https://devicon.dev/
+
+https://gist.github.com/rxaviers/7360908
+
+# Hi, I'm Eduardo Moraes, welcome to my repositories.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/eduardomoraespy)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/eduardo-moraes-ds/)
