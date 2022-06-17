@@ -4,7 +4,9 @@
 
 Here are some ideas to get you started:-->
 
-![Snake animation](https://github.com/eduardomoraespy/eduardomoraespy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eduardomoraespy/eduardomoraespy/output/github-contribution-grid-snake.svg)
+
+![](https://github.com/eduardomoraespy/snk/raw/output/github-contribution-grid-snake.svg)
 
 # Hi, I'm Eduardo Moraes, welcome to my repositories.
 
